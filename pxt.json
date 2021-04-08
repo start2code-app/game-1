@@ -1,5 +1,5 @@
 {
-    "name": "game 1",
+    "name": "mb_activites",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -9,7 +9,8 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "game1.md"
     ],
     "testFiles": [
         "test.ts"
@@ -17,5 +18,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
